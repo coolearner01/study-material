@@ -22,12 +22,6 @@ Expect a mix of:
 
 Folders will be added as content grows — not every directory exists yet.
 
-## How I Use It
-
-- New topic → create a folder, drop in a `README.md` with notes.
-- Code example → keep it self-contained and runnable.
-- Reference → link the source so I can revisit the original.
-- Review → revisit older notes and refine them over time.
 
 ## Contributing
 
