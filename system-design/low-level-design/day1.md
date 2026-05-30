@@ -1,5 +1,5 @@
 # Day 01 — All 5 SOLID Principles
-## 30-Day LLD Twitter Series | @startfin
+## 30-Day LLD Series 
 
 ---
 
@@ -938,5 +938,3 @@ DIP → "Does my business logic name a specific database or email service?"
       If YES — introduce an interface and inject it.
 ```
 ---
-
-*Day 1 of 30 — @startfin LLD Twitter Series*

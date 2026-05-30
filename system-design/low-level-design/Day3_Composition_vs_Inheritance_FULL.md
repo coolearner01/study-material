@@ -1,5 +1,5 @@
 # Day 03 — Composition vs Inheritance
-## 30-Day LLD Twitter Series | @startfin
+## 30-Day LLD Series 
 ### Language: Java
 
 ---
@@ -864,5 +864,3 @@ test/
 └── CompositionTest.java
 ```
 ---
-
-*Day 3 of 30 — @startfin LLD Twitter Series*

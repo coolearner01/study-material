@@ -1,5 +1,5 @@
 # Day 02 — DRY, KISS, YAGNI
-## 30-Day LLD Twitter Series | @startfin
+## 30-Day LLD Series
 
 ---
 
@@ -987,5 +987,3 @@ In that order. Every time.
 ```
 
 ---
-
-*Day 2 of 30 — @startfin LLD Twitter Series*
